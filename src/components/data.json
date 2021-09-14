@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "imgUrl": "https://i.imgur.com/nyXYV5M.png",
+    "historia": "Un día como cualquiera te vas a dormir, lo siguiente que sabes es que te despiertas en medio de un bosque.",
+    "opciones": {
+      "a": "A. Pedir ayuda a los gritos.",
+      "b": "B. Mirar a mi alrededor."
+    }
+  },
+  {
+    "id": "2a",
+    "imgUrl": "https://i.imgur.com/KNX9EfK.png",
+    "historia": "Instantáneamente entras en pánico por lo bizarro de la situación y gritas: -¡Ayudaaa! Nadie responde. Detrás de un árbol, enfrente tuyo, se asoma lo que parece ser la sombra de la cabeza de alguna cosa.",
+    "opciones": {
+      "a": "A. Te levantas y caminas lentamente hacia atrás.",
+      "b": "B. Te levantas y sales corriendo."
+    }
+  },
+  {
+    "id": "2b",
+    "imgUrl": "https://i.imgur.com/KNX9EfK.png",
+    "historia": "Miras a tu alrededor y ves solo árboles, plantas y hongos. Detrás de un árbol, enfrente tuyo, se asoma lo que parece ser la sombra de la cabeza de alguna cosa.",
+    "opciones": {
+      "a": "A. Te levantas y caminas lentamente hacia atrás.",
+      "b": "B. Te levantas y sales corriendo."
+    }
+  },
+  {
+    "id": "3a",
+    "imgUrl": "https://i.imgur.com/uBoEsTu.png",
+    "historia": "Lento y sin sacarle la mirada de encima, te vas alejando de la sombra. Ves que de golpe se mueve y empieza a correr hacia vos, no distingues qué es pero sales corriendo. Escuchas de golpe un grito proveniente de la sombra: -¡Esperaaa!",
+    "opciones": {
+      "a": "A. Le haces caso y esperas.",
+      "b": "B. Mira si voy a esperar, sigo corriendo."
+    }
+  },
+  {
+    "id": "3b",
+    "imgUrl": "https://i.imgur.com/uBoEsTu.png",
+    "historia": "Al levantarte ves que se mueve y empieza a correr hacia ti, no distingues qué es pero sales corriendo pensando que puede ser algún félido. Escuchas de golpe un grito proveniente de la sombra de la cosa: -¡Esperaaa!",
+    "opciones": {
+      "a": "A. Le haces caso y esperas.",
+      "b": "B. Mira si voy a esperar, sigo corriendo."
+    }
+  },
+  {
+    "id": "4a",
+    "imgUrl": "https://i.imgur.com/S1r2i3F.png",
+    "historia": "Paras de correr y al darte vuelta con algo de miedo ves que lo que te perseguía se detiene. Te quedas sin palabras al ver que es un tigre con un antifaz bastante llamativo que te dice; -Si quieres llorar, llora pero estás en un sueño, mi amor.",
+    "opciones": {
+      "a": "A. Me río en la cara del tigre carnavelezco.",
+      "b": "B. Me pongo a bailar."
+    }
+  },
+  {
+    "id": "4b",
+    "imgUrl": "https://i.imgur.com/S1r2i3F.png",
+    "historia": "El miedo no deja tu cuerpo y hace bien así que seguís corriendo, sin darte cuenta te tropezas con una piedra y quedas de cara con lo que te perseguía, lo que ves es ridículo, un tigre con un antifaz bastante llamativo que te dice: -Si quieres llorar, llora pero estás en un sueño, mi amor.",
+    "opciones": {
+      "a": "A. Me río en la cara del tigre carnavelezco.",
+      "b": "B. Me pongo a bailar."
+    }
+  },
+  {
+    "id": "5a",
+    "imgUrl": "https://i.imgur.com/a6TMImZ.png",
+    "historia": "Te empiezas a reir como nunca, y de una forma bastante molesta la verdad. El tigre carnavelezco se cansa de vos y te da una sólida bofetada en la cara con su brazo de 60kg que te tuerce el cuello y te despierta instantáneamente.",
+    "opciones": { "a": "FIN.", "b": "FIN." }
+  },
+  {
+    "id": "5b",
+    "imgUrl": "https://i.imgur.com/a6TMImZ.png",
+    "historia": "Por alguna razón decides ponerte a bailar, el tigre carnavelezco no entiende porqué, los animales del bosque no entienden porqué, yo que escribo esto no entiendo porqué, nadie entiende porqué. El tigre carnavalesco se cansa de tu bailecito y te da una sólida bofetada en la cara con su brazo de 60kg que te tuerce el cuello y te despierta instantáneamente.",
+    "opciones": { "a": "FIN", "b": "FIN" }
+  }
+]
