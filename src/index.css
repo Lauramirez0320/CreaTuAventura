@@ -136,3 +136,7 @@
   position: relative;
   top: 1px;
 }
+
+h2.swal2-title, .swal2-html-container{
+  font-family: "Ropa Sans", sans-serif;
+}
