@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CreaTuAventura/static/css/main.93ff6fda.chunk.css",
+    "main.js": "/CreaTuAventura/static/js/main.1230f883.chunk.js",
+    "main.js.map": "/CreaTuAventura/static/js/main.1230f883.chunk.js.map",
+    "runtime-main.js": "/CreaTuAventura/static/js/runtime-main.8f0461fb.js",
+    "runtime-main.js.map": "/CreaTuAventura/static/js/runtime-main.8f0461fb.js.map",
+    "static/js/2.389ed19c.chunk.js": "/CreaTuAventura/static/js/2.389ed19c.chunk.js",
+    "static/js/2.389ed19c.chunk.js.map": "/CreaTuAventura/static/js/2.389ed19c.chunk.js.map",
+    "index.html": "/CreaTuAventura/index.html",
+    "static/css/main.93ff6fda.chunk.css.map": "/CreaTuAventura/static/css/main.93ff6fda.chunk.css.map",
+    "static/js/2.389ed19c.chunk.js.LICENSE.txt": "/CreaTuAventura/static/js/2.389ed19c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f0461fb.js",
+    "static/js/2.389ed19c.chunk.js",
+    "static/css/main.93ff6fda.chunk.css",
+    "static/js/main.1230f883.chunk.js"
+  ]
+}
